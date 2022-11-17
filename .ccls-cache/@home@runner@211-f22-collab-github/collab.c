@@ -11,7 +11,7 @@
 // Read through the code that is already here before adding your own.
 // Add this code to the repository using git commands.
 // 
-// An example is s
+// An example is shown below.
 // 
 // UIC CS 211, Fall 2022
 #include <stdio.h>
@@ -19,10 +19,6 @@
 void reed_ekidan2() {
   printf("Dale Reed and Ellen Kidane\n");
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
-}
-
-void dcao22_dgree21() {
-  printf("We learnt that you can use the exact differences between the modified version and the main version through the command git diff. For a text file, a diff can be that of the differnece in the content of the text, or ")
 }
 
 int main()
